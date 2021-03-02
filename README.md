@@ -1,1 +1,1 @@
-# AspNetCore-DVDD-kkan-
+# AspNetCoreDvdDukkani
